@@ -538,11 +538,15 @@ a:focus, a:hover {
     }
 
     #top h1{
-      font-size: 1.2em;
+      font-size: 1.6em;
     }
 
     #top p{
-      font-size: 1.2em;
+      font-size: 1.6em;
+    }
+
+    #top{
+      height: 600px;
     }
 }
 
