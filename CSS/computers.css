@@ -536,6 +536,14 @@ a:focus, a:hover {
       background-attachment: fixed;
       background-position-x: -380px;
     }
+
+    #top h1{
+      font-size: 1.2em;
+    }
+
+    #top p{
+      font-size: 1.2em;
+    }
 }
 
   
